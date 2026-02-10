@@ -29,7 +29,7 @@ void savedata(){
 			file<<name[i]<<" "<<id[i]<<" "<<quantity[i]<<" "<<price[i]<<endl;
 		}
 	} else{
-	cerr<<"File not fouund"<<endl;
+	cerr<<"File not found"<<endl;
 	}
 	file.close();
 }
@@ -266,4 +266,5 @@ int main(){
 	
 }
 	
+
 
