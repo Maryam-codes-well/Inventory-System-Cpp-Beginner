@@ -42,10 +42,3 @@ This project is built **without using structures or classes**, focusing only on 
 Maryam
 
 
-
-
-
-
-
-Your Name
-
